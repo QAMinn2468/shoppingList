@@ -1,3 +1,4 @@
+
 # ShoppingList group project for (Grow With Google Scholarship - Udacity)
 Hello and welcome to the shoppinglist small project
 This project is about creating a Javascript Shopping List where we can add items to the list and then check the items we already bought, the checked item need to look different so we know it is checked. we need also the ability to delete items from the list, so it is all about Add Delete and check items.
@@ -34,7 +35,8 @@ JavaScript:
 ```
 Name          | Name Forum @    | Slack @      |A Link to your website (optional)
 -----         | -----           | -----        | -----
-(Dima Kroma)  | @infoe8o      |  @dima Kroma  |  (http://www.dimakroma.com)
+(Dima Kroma)  | @infoe8o        |  @dima Kroma |  (http://www.dimakroma.com)
+(Kim McCaffrey) @Kimberly.M.McCaffrey |@Kim    | No website 
 ```
 
 CSS:
@@ -42,7 +44,8 @@ CSS:
 ```
 Name          | Name Forum @    | Slack @      |A Link to your website (optional)
 -----         | -----           | -----        | -----
-(Dima Kroma)  | @infoe8o      |  @dima Kroma  |  (http://www.dimakroma.com)
+(Dima Kroma)  | @infoe8o        |  @dima Kroma |  (http://www.dimakroma.com)
+(Kim McCaffrey) @Kimberly.M.McCaffrey |@Kim    | No website 
 ```
 
 HTML:
@@ -50,7 +53,8 @@ HTML:
 ```
 Name          | Name Forum @    | Slack @      |A Link to your website (optional)
 -----         | -----           | -----        | -----
-(Dima Kroma)  | @infoe8o      |  @dima Kroma  |  (http://www.dimakroma.com)
+(Dima Kroma)  | @infoe8o        |  @dima Kroma |  (http://www.dimakroma.com)
+(Kim McCaffrey) @Kimberly.M.McCaffrey |@Kim    | No website 
 ```
 
 
